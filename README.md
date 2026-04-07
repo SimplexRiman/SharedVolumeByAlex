@@ -1,3 +1,8 @@
+https://www.youtube.com/live/iJGh5cBSReo?si=gkvAfm82tlNloSs8
+
+https://www.youtube.com/live/JEFiiM9C_po?si=HHXPBUxPgeIQd77N
+
+
 https://www.ruli.ru/category/auto/zadnie_fonari/
 
 
