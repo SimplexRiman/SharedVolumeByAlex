@@ -4,7 +4,7 @@ In this homework you will build agents for a small online electronics store (hea
 Tool-Calling Agent (ReAct loop) — the model searches products and manages a shopping cart by calling tools in an iterative ReAct loop. You will write docstrings for the tool functions, generate a tool schema with convert_to_openai_tool, and implement run_shopping_agent — the ReAct loop that sends messages to the LLM, executes tool calls, and returns the final text response.
 
 Memory Agent — the agent gains long-term memory (a user profile saved to disk) and short-term memory (conversation history), so it remembers preferences across sessions and past search results within a session. You will implement load_profile / save_profile for reading and writing a JSON profile, define the update_profile tool schema, and implement run_memory_agent that injects the profile into the system prompt and carries conversation history between turns.
-
+AIzaSyDqGyYRRrAfG4_PD907zg87GaQnSJeQqV4
 Multi-Agent System — four specialized agents — Retriever, Pros Analyst, Cons Analyst, and Ranker — coordinated by an Orchestrator that delegates work, collects results, and produces a final recommendation with honest pros & cons. You will implement all four agent classes and the CoordinatorAgent that runs them in a chain, passing data through a shared AgentContext.
 
 Detailed instructions, starter code, and open test cases are in the notebook.
